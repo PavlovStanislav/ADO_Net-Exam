@@ -1,0 +1,10 @@
+F:\ИТМО\ADO_Net\New folder (2)\Exam\Exam\bin\Debug\Exam.exe.config
+F:\ИТМО\ADO_Net\New folder (2)\Exam\Exam\bin\Debug\Exam.exe
+F:\ИТМО\ADO_Net\New folder (2)\Exam\Exam\bin\Debug\Exam.pdb
+F:\ИТМО\ADO_Net\New folder (2)\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+F:\ИТМО\ADO_Net\New folder (2)\Exam\Exam\obj\Debug\Exam.Form1.resources
+F:\ИТМО\ADO_Net\New folder (2)\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+F:\ИТМО\ADO_Net\New folder (2)\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+F:\ИТМО\ADO_Net\New folder (2)\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+F:\ИТМО\ADO_Net\New folder (2)\Exam\Exam\obj\Debug\Exam.exe
+F:\ИТМО\ADO_Net\New folder (2)\Exam\Exam\obj\Debug\Exam.pdb
