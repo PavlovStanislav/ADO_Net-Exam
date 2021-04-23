@@ -101,7 +101,7 @@ namespace Exam
 
                 connect.Open();
 
-                run = new OleDbCommand("DELETE FROM [MyDb].[db_owner].[Users] WHERE [user_id] = " + user_ID, connect)
+                run = new OleDbCommand("DELETE FROM [MyDb].[db_owner].[Users] WHERE [user_id] = " + user_ID, connect);
                 run.Parameters.Add(new OleDbParameter("user_ID", textBox4.Text));
 
                 run.ExecuteNonQuery();
@@ -124,7 +124,7 @@ namespace Exam
 
                 connect.Open();
 
-                run = new OleDbCommand("SELECT * FROM [MyDb].[db_owner].[Users] WHERE [user_id] = " + user_ID, connect)
+                run = new OleDbCommand("SELECT * FROM [MyDb].[db_owner].[Users] WHERE [user_id] = " + user_ID, connect);
                 run.Parameters.Add(new OleDbParameter("user_ID", textBox4.Text));
 
                 read = run.ExecuteReader();
@@ -153,7 +153,7 @@ namespace Exam
                 run = new OleDbCommand("UPDATE [MyDb].[db_owner].[Users] SET [username] = '" + username + "'," +
                     " [password] = '" + password + "'," +
                     " [email] = '" + email + "'" +
-                    " WHERE [user_id] = " + user_ID, connect)
+                    " WHERE [user_id] = " + user_ID, connect);
 
 
                 run.Parameters.Add(new OleDbParameter("username", textBox1.Text));
